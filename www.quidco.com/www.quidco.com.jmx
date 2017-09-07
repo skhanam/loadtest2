@@ -398,7 +398,7 @@ Failure = message.toLowerCase().contains(merchant.toLowerCase())</stringProp>
           <hashTree/>
         </hashTree>
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="search" enabled="true">
-          <stringProp name="filename">productsearch.csv</stringProp>
+          <stringProp name="filename">searchterms.csv</stringProp>
           <stringProp name="fileEncoding"></stringProp>
           <stringProp name="variableNames">search_term</stringProp>
           <stringProp name="delimiter">,</stringProp>
